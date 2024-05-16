@@ -29,12 +29,6 @@
 
 <h3>Chat Page</h3>
 
-![One on One Chatting](https://github.com/Kisna2512/Mern_Let-s_Chat_App/assets/90544124/a4381e12-569d-461c-a37a-664ee6c726de)
-
-
-
-<h3>User Profile</h3>
-
 ![User Profile](https://github.com/steelbenze/ChatPulse/blob/main/Demo_Pictures/img%201.jpg)
 
 
